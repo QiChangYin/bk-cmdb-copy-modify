@@ -20,6 +20,7 @@ import (
 	"configcenter/src/tools/cmdb_ctl/app"
 )
 
+
 func main() {
 	runtime.GOMAXPROCS(runtime.NumCPU())
 
